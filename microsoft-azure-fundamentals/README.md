@@ -1,5 +1,8 @@
 # Microsoft Azure Fundamentals
 
+Microsoft Azure Learning Path
+https://docs.microsoft.com/en-us/learn/azure/
+
 Self-learn Online Materials About AZ-900
 https://aka.ms/azfunpath
 
