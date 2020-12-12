@@ -57,3 +57,13 @@ https://www.pluralsight.com/partners/microsoft/azure
 Labs
 https://github.com/MicrosoftLearning
 
+Microsoft Azure Fundamentals Certification Course (AZ-900) - YouTube 
+https://www.youtube.com/watch?v=NKEFWyqJ5XA
+
+
+
+
+
+
+
+
