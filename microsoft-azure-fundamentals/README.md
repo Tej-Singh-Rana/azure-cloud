@@ -54,5 +54,6 @@ Estimate the Total Cost of Ownership with the Azure TCO calculator
 Take the Role Based Assessments at Pluralsight
 https://www.pluralsight.com/partners/microsoft/azure
 
-
+Labs
+https://github.com/MicrosoftLearning
 
