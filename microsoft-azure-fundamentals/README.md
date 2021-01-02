@@ -60,7 +60,7 @@ https://github.com/MicrosoftLearning
 Microsoft Azure Fundamentals Certification Course (AZ-900) - YouTube -
 https://www.youtube.com/watch?v=NKEFWyqJ5XA
 
-
+Run system compatibility check https://home.pearsonvue.com/microsoft/onvue
 
 
 
