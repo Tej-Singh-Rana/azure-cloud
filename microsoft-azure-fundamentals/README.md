@@ -60,6 +60,9 @@ https://github.com/MicrosoftLearning
 Microsoft Azure Fundamentals Certification Course (AZ-900) - YouTube 
 https://www.youtube.com/watch?v=NKEFWyqJ5XA
 
+Playlist of AZ-900 Microsoft Azure Fundamentals Study Guide by Tim Warner 
+https://www.youtube.com/playlist?list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv
+
 Run system compatibility check https://home.pearsonvue.com/microsoft/onvue
 
 
