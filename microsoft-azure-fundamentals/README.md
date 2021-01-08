@@ -65,7 +65,8 @@ https://www.youtube.com/playlist?list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv
 
 Run system compatibility check https://home.pearsonvue.com/microsoft/onvue
 
-
+Microsoft Virtual Training Days
+https://www.microsoft.com/en-ie/training-days
 
 
 
