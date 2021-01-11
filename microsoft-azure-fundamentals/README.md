@@ -68,6 +68,7 @@ Run system compatibility check https://home.pearsonvue.com/microsoft/onvue
 Microsoft Virtual Training Days
 https://www.microsoft.com/en-ie/training-days
 
-
+Microsoft Azure Updates 
+https://azure.microsoft.com/en-us/updates/
 
 
