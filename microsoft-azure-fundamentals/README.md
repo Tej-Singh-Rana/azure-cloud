@@ -71,4 +71,5 @@ https://www.microsoft.com/en-ie/training-days
 Microsoft Azure Updates 
 https://azure.microsoft.com/en-us/updates/
 
-
+The Cloud Skills Challenge
+https://www.microsoft.com/en-us/us-partner-blog/2020/10/05/sharpen-your-teams-technical-skills-with-the-cloud-skills-challenge/
