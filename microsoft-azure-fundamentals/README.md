@@ -63,6 +63,9 @@ https://www.youtube.com/watch?v=NKEFWyqJ5XA
 Playlist of AZ-900 Microsoft Azure Fundamentals Study Guide by Tim Warner 
 https://www.youtube.com/playlist?list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv
 
+Exam Formats and Question Types
+https://docs.microsoft.com/en-us/learn/certifications/certification-exams#exam-formats-and-question-types
+
 Run system compatibility check https://home.pearsonvue.com/microsoft/onvue
 
 Microsoft Virtual Training Days
