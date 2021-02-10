@@ -54,6 +54,9 @@ Estimate the Total Cost of Ownership with the Azure TCO calculator
 Microsoft Azure Offer Details
 https://azure.microsoft.com/en-au/support/legal/offer-details/
 
+Microsoft Cloud Adoption Framework
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
+
 Take the Role Based Assessments at Pluralsight
 https://www.pluralsight.com/partners/microsoft/azure
 
